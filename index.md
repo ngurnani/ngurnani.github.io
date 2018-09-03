@@ -6,8 +6,8 @@ author_profile: true
 ### News
 
 * (June 2018) Graduated with a M.S. in Statistics, currently looking for full time roles in Data Science.
-* (September 2018) Passed Ph.D. Qualifying Exams!
-* (July 2017) My paper on [Hypothesis Testing based Intrinsic Evaluation of Word Embeddings](http://www.aclweb.org/anthology/W/W17/W17-5303.pdf) was accepted to the [RepEval 2017 Workshop (Co-located with EMNLP 2017)](https://repeval2017.github.io/ )
+* (September 2017) Passed Ph.D. Qualifying Exams!
+* (July 2017) My paper on [Hypothesis Testing based Intrinsic Evaluation of Word Embeddings](http://www.aclweb.org/anthology/W/W17/W17-5303.pdf) was accepted to the [RepEval 2017 Workshop](https://repeval2017.github.io/ )
 
 ### Background
 I was previously a graduate student at [UC San Diego](https://math.ucsd.edu/) studying Statistics. My interests were primarily in structured learning problems and the methodological issues they raise.
