@@ -7,9 +7,9 @@ permalink: /research/
 
 ### Papers
 
-1. N. Gurnani,  [Hypothesis Testing based Intrinsic Evaluation of Word Embeddings](http://www.aclweb.org/anthology/W/W17/W17-5303.pdf), In Proceedings of the 2nd Workshop on Evaluating Vector Space Representations for NLP, 2017
+1. N. Gurnani,  [Hypothesis Testing based Intrinsic Evaluation of Word Embeddings](http://www.aclweb.org/anthology/W/W17/W17-5303.pdf), In Proceedings of the 2nd Workshop on Evaluating Vector Space Representations for NLP, September 2017.
 
-2. N. Gurnani, [Combinatorial Identification in Multi Armed Bandits](https://s3.amazonaws.com/www.ngurnani.com/ngurnani_seniorthesis.pdf), Undergraduate Senior Thesis, 2013
+2. N. Gurnani, [Combinatorial Identification in Multi Armed Bandits](https://s3.amazonaws.com/www.ngurnani.com/ngurnani_seniorthesis.pdf), Undergraduate Senior Thesis, June 2013.
 
 ### Selected Talks
 
