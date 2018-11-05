@@ -5,7 +5,7 @@ author_profile: true
 ---
 ### News
 
-* (June 2018) Graduated with a M.S. in Statistics, currently looking for full time roles in Data Science
+* (June 2018) Graduated with a M.S. in Statistics
 * (September 2017) Passed Ph.D. Qualifying Exams!
 * (July 2017) My paper on [Hypothesis Testing based Intrinsic Evaluation of Word Embeddings](http://www.aclweb.org/anthology/W/W17/W17-5303.pdf) was accepted to the [RepEval 2017 Workshop](https://repeval2017.github.io/ )
 
